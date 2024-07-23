@@ -5,7 +5,7 @@ This repository contains a simple implementation of corner detection in an image
 To run this code, you need to have Python installed along with the OpenCV library. You can install OpenCV using pip.
   pip install opencv-python
 
-# Code Explanation
+# Explanation
   
     import cv2
     import numpy as np 
@@ -32,10 +32,8 @@ The script reads an image (joel.jpg) and converts it to grayscale.
 ' cv2.goodFeaturesToTrack function ' is used to detect up to 100 corners in the image with a quality level of 0.01 and a minimum distance of 150 pixels between detected corners.
 For each detected corner, a rectangle is drawn around the corner. The result is displayed in a window named 'corners found'.
 
-# Usage
+# To use
 Clone this repository.
 
     git clone https://github.com/yourusername/Corner-Detection-OpenCV.git
     cd Corner-Detection-OpenCV
-
-
