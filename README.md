@@ -35,5 +35,5 @@ For each detected corner, a rectangle is drawn around the corner. The result is 
 # To use
 Clone this repository.
 
-    git clone https://github.com/yourusername/Corner-Detection-OpenCV.git
+    git clone https://github.com/heuristic-solver/Corner-Detection-OpenCV.git
     cd Corner-Detection-OpenCV
